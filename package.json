@@ -1,5 +1,6 @@
 {
   "name": "hexlet",
+  "type": "module",
   "version": "1.0.0",
   "description": "123 Мой первый проект на Хекслете",
   "main": "index.js",
@@ -9,3 +10,4 @@
   "author": "",
   "license": "ISC"
 }
+
