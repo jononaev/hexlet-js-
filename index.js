@@ -1,4 +1,7 @@
 import _ from "lodash";
+import getBirthYear from "./src/index.js";
 
-console.log(_.capitalize("hello"));
-console.log(_.last(["one", "two"]));
+console.log("Сколько вам лет?");
+const age = 18;
+
+console.log(`Ваш год рождения: ${getBirthYear(age)}`);
