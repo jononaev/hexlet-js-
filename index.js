@@ -1,4 +1,3 @@
-import _ from "lodash";
 import getBirthYear from "./src/index.js";
 
 console.log("Сколько вам лет?");
